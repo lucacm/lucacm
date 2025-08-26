@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luca
 
-🎓 Computer Engineering student at **Insper – Institute of Education and Research (Brazil)**  
+🎓 Computer Engineering student at **Insper – Triple Accredited Business School (AACSB, AMBA, EQUIS) – Brazil**  
 📊 Strong interest in **Financial Markets**  
 💻 Experienced with **Python, Power BI, SQL, and Excel**  
 
